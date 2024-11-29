@@ -207,7 +207,6 @@ It contains statements that map logical library names to their physical director
     
 	After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
-<img width="959" alt="exp2 2" src="https://github.com/user-attachments/assets/0e53d392-d128-494a-94ae-7f17b10961fa">
 
 ## Fig 8: Elaboration Launch Option
 
@@ -221,7 +220,11 @@ It contains statements that map logical library names to their physical director
 
 	Steps for simulation – Run the simulation command with simulator options
 
+![WhatsApp Image 2024-11-29 at 21 28 03_03996115](https://github.com/user-attachments/assets/2df81eec-d1f8-49d2-8354-672c6ddee366)
+
+
 ![image](https://github.com/user-attachments/assets/56b336b8-f559-432d-9a6a-3bc958df1cc0)
+
 
 ## Fig 9: Design Browser window for simulation
 
