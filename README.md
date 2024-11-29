@@ -116,15 +116,16 @@ endmodule
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step
 
-<img width="950" alt="exp1 1" src="https://github.com/user-attachments/assets/0e177ce3-5229-4c1e-9b8f-7005cf3c0601">
+![WhatsApp Image 2024-11-29 at 21 16 23_47f1bb72](https://github.com/user-attachments/assets/dddf0585-fb6f-4b41-989a-9026034db223)
+
 
 ## Fig 3: Setting Multi-step simulation
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
 Click the cds.lib file and save the file by clicking on Save option
+![WhatsApp Image 2024-11-29 at 21 42 28_e94e2ca2](https://github.com/user-attachments/assets/178930f3-a7d8-4933-a535-9d100c447c48)
 
-<img width="952" alt="exp1 2" src="https://github.com/user-attachments/assets/a3b95556-b397-4917-bae8-2648014cee45">
 
 ## Fig 4: cds.lib file Creation
 
@@ -220,7 +221,8 @@ It contains statements that map logical library names to their physical director
 
 ## Fig 9: Design Browser window for simulation
 
-![image](https://github.com/user-attachments/assets/0e16d274-a1f3-456d-ba64-6f05446b5ab3)
+![Uploading WhatsApp Image 2024-11-29 at 21.53.35_bc23ac3a.jpg…]()
+
 
 ## Fig 10: Simulation Waveform Window
 
