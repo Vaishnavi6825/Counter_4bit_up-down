@@ -124,6 +124,7 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
 Click the cds.lib file and save the file by clicking on Save option
+
 ![WhatsApp Image 2024-11-29 at 21 42 28_e94e2ca2](https://github.com/user-attachments/assets/178930f3-a7d8-4933-a535-9d100c447c48)
 
 
@@ -134,6 +135,7 @@ Click the cds.lib file and save the file by clicking on Save option
 	Select “Don’t include any libraries (verilog design)” from “New cds.lib file” and click on “OK” as in below figure
 
 	We are simulating verilog design without using any libraries
+
 ![image](https://github.com/user-attachments/assets/ded55134-4ff5-4a24-a9cb-da1e193e777d)
 
 ## Fig 5: Selection of Don’t include any libraries
@@ -146,7 +148,8 @@ Click the cds.lib file and save the file by clicking on Save option
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
-<img width="959" alt="exp2 1" src="https://github.com/user-attachments/assets/0a7f799e-0784-4ca6-a946-221c551c33c9">
+![WhatsApp Image 2024-11-29 at 21 08 37_794f3a24](https://github.com/user-attachments/assets/6500879e-bd7a-4d93-96fa-cd36d6a1c12d)
+
 
 ## Fig 6: Nclaunch Window
 
@@ -172,7 +175,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
-<img width="959" alt="exp2 2" src="https://github.com/user-attachments/assets/2e8fd8a3-34e4-4d34-9722-c8f97bf3928e">
+![WhatsApp Image 2024-11-29 at 21 07 42_9c2dd1df](https://github.com/user-attachments/assets/0654fff0-58f0-40c7-8c6a-c9a727b47ff7)
+
 
 ## Fig 7: Compiled database in worklib
 
@@ -221,7 +225,8 @@ It contains statements that map logical library names to their physical director
 
 ## Fig 9: Design Browser window for simulation
 
-![Uploading WhatsApp Image 2024-11-29 at 21.53.35_bc23ac3a.jpg…]()
+![WhatsApp Image 2024-11-29 at 21 53 35_d504eac3](https://github.com/user-attachments/assets/940cbb6c-8114-4753-a6e2-808d83ce95a3)
+
 
 
 ## Fig 10: Simulation Waveform Window
